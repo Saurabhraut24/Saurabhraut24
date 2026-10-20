@@ -1,10 +1,10 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Saurabh%20Raut&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Data%20Analytics%20%7C%20Python%20Developer&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Saurabh%20Raut&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Data%20Analytics%20%7C%20Python%20Developer&descSize=18&descAlignY=58" width="100%" alt="Saurabh Raut - AI ML Engineer, Data Analyst and Python Developer from Solapur, India"/>
 
 <a href="https://github.com/Saurabhraut24">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=D45D96&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Saurabh+%F0%9F%91%8B;Building+intelligent+solutions+with+ML+%26+NLP;Turning+data+into+insights+with+Tableau+%26+Power+BI;Deploying+AI+apps+with+FastAPI+%26+Hugging+Face" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=D45D96&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Saurabh+%F0%9F%91%8B;Building+intelligent+solutions+with+ML+%26+NLP;Turning+data+into+insights+with+Tableau+%26+Power+BI;Deploying+AI+apps+with+FastAPI+%26+Hugging+Face" alt="Saurabh Raut - Machine Learning, NLP, Data Analytics, FastAPI, Tableau, Power BI" />
 </a>
 
 <br/>
@@ -18,6 +18,10 @@
 ![CGPA](https://img.shields.io/badge/CGPA-9.31-success?style=flat-square)
 
 </div>
+
+# Saurabh Raut – AI/ML Engineer | Data Analyst | Python Developer
+
+**Saurabh Mahavir Raut** (Saurabh Raut) is an **AI/ML enthusiast, Python developer and data analytics student** from **Solapur, Maharashtra, India**, studying **B.Tech in Electronics and Computer Engineering** at **Walchand Institute of Technology (WIT), Solapur**. He builds **machine learning, NLP and data analytics projects** using **Python, FastAPI, Flask, Streamlit, DistilBERT, Scikit-learn, OpenCV, Tableau and Power BI**, and completed the **Infosys Springboard Internship 6.0** as an Enterprise AI Project Intern.
 
 ---
 
@@ -34,7 +38,7 @@ class SaurabhRaut:
     motto     = "Always learning, building and improving."
 ```
 
-- 🎓 Final-year Electronics & Computer Engineering student with a strong academic record (CGPA **9.31**)
+- 🎓 Saurabh Raut is a final-year Electronics & Computer Engineering student with a strong academic record (CGPA **9.31**)
 - 🤖 Experienced in building **Python-based applications** and **machine learning projects**
 - 📧 Worked on **NLP-based email classification** during my **Infosys Springboard** internship
 - 📊 Exploring **data visualization**, **model evaluation** and practical **AI applications**
@@ -48,7 +52,7 @@ class SaurabhRaut:
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,mysql,git,github,vscode,aws,vercel&perline=9" alt="skills" />
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,mysql,git,github,vscode,aws,vercel&perline=9" alt="Saurabh Raut tech stack: Python, Flask, FastAPI, MySQL, Git, GitHub, VS Code, AWS, Vercel" />
 
 **AI / ML & Data**
 
@@ -240,6 +244,12 @@ I have **30+ repositories** covering Machine Learning, NLP, Data Analytics and P
 
 ---
 
+## 🔎 Search Tags
+
+`Saurabh Raut` · `Saurabh Mahavir Raut` · `Saurabhraut24` · `Saurabh Raut Solapur` · `Saurabh Raut Walchand Institute of Technology` · `Saurabh Raut AI ML` · `Saurabh Raut Data Analyst` · `Saurabh Raut Python Developer` · `Saurabh Raut Infosys Springboard` · `Machine Learning Intern` · `NLP Email Classification` · `DistilBERT` · `FastAPI Developer` · `Tableau Dashboard` · `Power BI` · `Data Analytics Intern` · `Python Developer Solapur` · `AI Developer Maharashtra India`
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
@@ -252,6 +262,6 @@ I have **30+ repositories** covering Machine Learning, NLP, Data Analytics and P
 
 *⭐ If you like my work, consider giving a star to my repositories!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="Saurabh Raut portfolio footer"/>
 
 </div>
